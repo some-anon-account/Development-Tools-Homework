@@ -1,0 +1,2 @@
+c:\users\ivayla\documents\visual studio 2013\Projects\Development-Tools-HW-Using-Templates\Development-Tools-HW-Using-Templates\bin\Debug\Development-Tools-HW-Using-Templates.exe.config
+c:\users\ivayla\documents\visual studio 2013\Projects\Development-Tools-HW-Using-Templates\Development-Tools-HW-Using-Templates\obj\Debug\Development-Tools-HW-Using-Templates.csprojResolveAssemblyReference.cache
